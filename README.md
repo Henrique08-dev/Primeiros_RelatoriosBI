@@ -38,4 +38,6 @@ Os relatórios demonstram capacidade de:
 - Monitorar evolução temporal das métricas de negócio
 - Criar visualizações eficientes para tomada de decisão
 
-Este projeto representa meus primeiros passos na criação de relatórios analíticos profissionais com Power BI.
+---
+
+**Desenvolvido como parte da Formação Power BI Analyst - Digital Innovation One**
